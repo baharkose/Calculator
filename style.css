@@ -61,6 +61,7 @@ h1{
 
 .butonlar{
     text-align:center;
+    cursor:pointer;
 }
 
 #sonuc{
